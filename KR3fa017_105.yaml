@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa017/tls/v1/juan/105
+seq: 105
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 金星伏見一十度半周率五百八十三万九千百二十六分曆率三百六十五万二千五百七十五分度率一万分合應二百三十七万九千四百一十五分曆應一十万四千一百八十几分
+  hash: sha256:125ba8d989ea78369663098f23937cfb9fa69e6c32d91c7f7b07093adae65bdf
+metadata:
+  title: 交食通軌/日食通軌/月食通軌/四余通軌/五星通軌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa017.xml
+hash: sha256:6a41a93f02595486bfe1ec9a4db2854aaa3d02afa0f8ef75c41fca9e6a1a3fdc

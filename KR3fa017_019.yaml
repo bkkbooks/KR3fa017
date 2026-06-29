@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa017/tls/v1/juan/19
+seq: 19
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 交食通軌/日食通軌/月食通軌/四余通軌/五星通軌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa017.xml
+hash: sha256:5b1253edcdb6d9fc9848555d83dead64f1e73c67f1bcc1be3184c779692abec6

@@ -1,0 +1,27 @@
+canonical_identifier: bkk:krp/KR3fa017/tls/v1/markers/112
+seq: 112
+markers:
+  front: []
+  body:
+  - {type: 'tls:seg', offset: 0, content: '', id: KR3fa017_tls_001-p55.s13}
+  - {type: line-break, offset: 0, content: '', id: KX_13_dup39, _xml_error: duplicate-id, _xml_original_id: KX_13}
+  - {type: 'tls:seg', offset: 17, content: '', id: KR3fa017_tls_001-p55.s14}
+  - {type: line-break, offset: 17, content: '', id: KX_14_dup39, _xml_error: duplicate-id, _xml_original_id: KX_14}
+  - {type: 'tls:seg', offset: 34, content: '', id: KR3fa017_tls_001-p55.s15}
+  - {type: line-break, offset: 34, content: '', id: KX_15_dup41, _xml_error: duplicate-id, _xml_original_id: KX_15}
+  - {type: 'tls:seg', offset: 51, content: '', id: KR3fa017_tls_001-p55.s16}
+  - {type: line-break, offset: 51, content: '', id: KX_16_dup41, _xml_error: duplicate-id, _xml_original_id: KX_16}
+  - {type: 'tls:seg', offset: 68, content: '', id: KR3fa017_tls_001-p55.s17}
+  - {type: line-break, offset: 68, content: '', id: KX_17_dup42, _xml_error: duplicate-id, _xml_original_id: KX_17}
+  - {type: 'tls:seg', offset: 84, content: '', id: KR3fa017_tls_001-p55.s18}
+  - {type: line-break, offset: 84, content: '', id: KX_18_dup41, _xml_error: duplicate-id, _xml_original_id: KX_18}
+  - {type: 'tls:seg', offset: 104, content: '', id: KR3fa017_tls_001-p55.s19}
+  - {type: line-break, offset: 104, content: '', id: KX_19_dup39, _xml_error: duplicate-id, _xml_original_id: KX_19}
+  - {type: 'tls:seg', offset: 120, content: '', id: KR3fa017_tls_001-p55.s20}
+  - {type: line-break, offset: 120, content: '', id: KX_20_dup40, _xml_error: duplicate-id, _xml_original_id: KX_20}
+  - {type: 'tls:seg', offset: 135, content: '', id: KR3fa017_tls_001-p55.s21}
+  - {type: line-break, offset: 135, content: '', id: KX_21_dup37, _xml_error: duplicate-id, _xml_original_id: KX_21}
+  - {type: 'tls:seg', offset: 151, content: '', id: KR3fa017_tls_001-p55.s22}
+  - {type: line-break, offset: 151, content: '', id: KX_22}
+  back: []
+hash: sha256:841ec27063f2cdbbbd516f93e3bf84bded25bf925be2af73e875816abda8bda1

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa017/tls/v1/juan/152
+seq: 152
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 合伏夕伏晨遲初夕遲初晨退夕退火星合伏夕伏晨遲末夕遲初晨退夕退土星合伏夕伏晨遲初夕遲晨退夕退金星合伏晨伏夕遲末晨遲初夕退晨退夕退伏合退伏水星合伏晨伏夕遲晨遲夕退伏合退伏推五星各各假下初日行分及末日行分法第二十一置其各假之平行分若比次假之平行分少者內減其本假之增減差余有為其初日行分也復置其平行分內卻加入其本假之增減差共得為其末日行分也又若其各假之平
+  hash: sha256:84a8db08abfaa3f2f506881f880657578aac00c66cd55b01165207dc22283a91
+metadata:
+  title: 交食通軌/日食通軌/月食通軌/四余通軌/五星通軌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa017.xml
+hash: sha256:a381aee85ab2fd5b2842e3829e9e8ba594d28b1b7d3296bc7ede6eac5714e3fd

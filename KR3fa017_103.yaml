@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa017/tls/v1/juan/103
+seq: 103
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 土星伏見一十八度周率三百七十八度千九百一十六分曆率一億千七百四十七万八千八百四十五分六十六秒度率二十九万四千二百五十五分合應二百六万四千七百三十四分曆應一億千六百万三千七百九十九分二秒
+  hash: sha256:b950b71c87132cd79c6cfa8d275502325709bf13ac3a45e30b215657d856209b
+metadata:
+  title: 交食通軌/日食通軌/月食通軌/四余通軌/五星通軌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa017.xml
+hash: sha256:a322e2e3ad33283c6470b98fcd819132f316e4328f11e36db1c93297abe9975d

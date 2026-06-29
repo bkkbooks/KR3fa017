@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa017/tls/v1/juan/126
+seq: 126
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 號數損益捷法縮積度分金星號數損益捷法盈縮積度
+  hash: sha256:8d22d7845e73a0505602d27817a797de45ac212f820a68c6f4b6e0971ee7c4b3
+metadata:
+  title: 交食通軌/日食通軌/月食通軌/四余通軌/五星通軌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa017.xml
+hash: sha256:04e8aaff33847f1d5e102ffaa202ac3f04fd57e9985cea860c235909083ecbf2

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa017/tls/v1/juan/79
+seq: 79
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 計都取入宫扵羅睺之積日上加入半周積三千三百九十六日七二一六共得數内减去其周後策余有數為入某辰宫積日分也黄道交入十二次宫界宿次度分鈐
+  hash: sha256:bfa597c7c6940804a0727f1e035bbf4d37e788189c32197ccaf4a5a80e8332f1
+metadata:
+  title: 交食通軌/日食通軌/月食通軌/四余通軌/五星通軌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa017.xml
+hash: sha256:1ec6e108a7d96b80b87f95db90110dfce7d843206ebf5fc6e52941bedc9ac235

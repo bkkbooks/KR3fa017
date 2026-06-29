@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa017/tls/v1/juan/76
+seq: 76
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 羅睺計都法同用羅睺至後策五千一百三十三万六二一七羅睺入尾宿末度計都至後策一千九百三十六万一計都入尾宿末度十八年七箇月一周天周積六千七百九十三日四千四百三十二分已下羅計同用半周積三千三百九十六日七千二百一十六分度率一十八日五九九一七七六日行分五分三七六六二
+  hash: sha256:837b9df4a86b711eeedf19746b5ff5846e5721f1cb79a6814cefe0496171da11
+metadata:
+  title: 交食通軌/日食通軌/月食通軌/四余通軌/五星通軌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa017.xml
+hash: sha256:2a3b74638fd2323c843f8cd39d10c429e70e20ce5eab8e48a301fc236457f216

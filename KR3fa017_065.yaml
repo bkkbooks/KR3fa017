@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa017/tls/v1/juan/65
+seq: 65
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 推四餘立成鈐紫氣入箕宿初度洪武甲子至後策八千一百九十四万九十六分二十三秒周積一万二百二十七日一千七百九十分日即一万分也半周積五千一百一十三日五千八百九十六分度率二十八日日行分三分五七一四二九
+  hash: sha256:7ecea6aafb96c4c0c27d02d54cd002cfe74947ee84e86a562eb6f4d048036fd8
+metadata:
+  title: 交食通軌/日食通軌/月食通軌/四余通軌/五星通軌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa017.xml
+hash: sha256:02ca32ffc3ac6691ffc59a479142ca6e6811503f7d08488d617c3eb4aa699adb

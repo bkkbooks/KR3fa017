@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa017/tls/v1/juan/122
+seq: 122
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 六九十一度三一四三七五七一百六度五三三四三五七八一百二十一度七五二五九一百三十六度九七一五六二五十一百五十二度一九六二五十一一百六十七度四九六八七五五星各各策數鈐木星策數鈐初言十分采百万為度度為千分數巳千巳百巳十巳退一位數十百十號數損益捷法盈縮積度分火星巳十巳万巳千巳百巳十巳點數以百万焉度號數損益捷法盈積度分初七六八八七空
+  hash: sha256:387c8f7018f8a41cb595ee26c6e9c1f1944eb17179a03e333cec082b69918cf6
+metadata:
+  title: 交食通軌/日食通軌/月食通軌/四余通軌/五星通軌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa017.xml
+hash: sha256:dc1b698cb8ee3e8c26137d4af80984a64b8838c1de645ae4b28c3835e33f806f

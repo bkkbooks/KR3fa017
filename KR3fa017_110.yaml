@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa017/tls/v1/juan/110
+seq: 110
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 推五星各各前合分後合後分開各各合伏下中積日分中星度分法第六平合即合次也亦有後合分與合伏下數相同者故日後合亦合伏也置其中積全分內加入各星之合應全分共得如滿
+  hash: sha256:f42ec7580edd36703d18ea275fd6cf2c59e4f3e63748a3cfd1a4c6cd1cd860e3
+metadata:
+  title: 交食通軌/日食通軌/月食通軌/四余通軌/五星通軌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa017.xml
+hash: sha256:99d192360a1f2913414eaeaeb8639b34df84172b97a6986f79b4916b90ed524a

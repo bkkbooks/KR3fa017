@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa017/tls/v1/juan/99
+seq: 99
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 度率一十一万八千五百八十二分合應二百四十三万二千三百一十一分曆應五百三十八万二千五百七十二分二十一秒半火星周率七百七十九万九千二百九十分
+  hash: sha256:e1030e9c9bd404a9d70e2d80b502e1320aeff78f55a5b33dab29606072f74cbb
+metadata:
+  title: 交食通軌/日食通軌/月食通軌/四余通軌/五星通軌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa017.xml
+hash: sha256:92001b1c5ea065b0055658bfe5e202a651573b5b199b560ae59b2d787c586bdb

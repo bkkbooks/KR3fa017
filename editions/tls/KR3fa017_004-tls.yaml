@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa017/tls/v1/juan/4
+seq: 4
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 定法八十分陽食限六度定法六十分月食限一十三度五分定法八十七度刺史諱垧姚氏新月日食限數凡數蒲万為日蒲千為十刻百為單刻也陽食入交在空日五十刻巳下不食在二十六日二刻巳上日月皆食在一十三日刻巳上日月皆食在一十四日七十五刻巳下日月皆食在空日五千四百五十五分巳下日月皆食在二十五日六千一百五十一分巳上日月皆食在一十二日八九巳上不食
+  hash: sha256:07f0359978c86647649af3e828137586361505ffeed6136b4846ed44ac20754b
+metadata:
+  title: 交食通軌/日食通軌/月食通軌/四余通軌/五星通軌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa017.xml
+hash: sha256:ea1392994355260b64a627f0662f8c0b9d3ef0379368829aceee0112163d58a9

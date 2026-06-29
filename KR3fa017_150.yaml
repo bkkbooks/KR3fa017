@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa017/tls/v1/juan/150
+seq: 150
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 假令如木星合伏假下平行分內減去其晨疾末假下平行分余有為其假之泛差分也他倣此推凡五星元有泛差之假者木星晨疾初晨疾末夕疾初夕疾末晨遲初晨遲末火星晨疾初晨疾末夕疾初夕疾末晨次疾初晨次疾末夕次疾初夕次疾末晨遲初夕遲末土星晨疾夕疾晨次疾夕次疾金星夕疾初夕疾末晨疾初晨次疾末夕次疾初夕次疾末晨次疾初晨次疾末夕遲初晨遲末水星夕疾晨疾凡五星元無沂差之假者木星
+  hash: sha256:42446c2eba94e2c2800863beb9d427e1e2de8bc8ffb159b87a5518488b5e3ee8
+metadata:
+  title: 交食通軌/日食通軌/月食通軌/四余通軌/五星通軌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa017.xml
+hash: sha256:c69a2ef843ceb7f2dfe950ddc687ae39363849677fd835c488503c8efa2335e6
