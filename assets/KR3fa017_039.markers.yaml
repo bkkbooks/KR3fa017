@@ -5,7 +5,6 @@ markers:
   body:
   - {type: 'tls:seg', offset: 0, content: '', id: KR3fa017_tls_001-p20.s1}
   - {type: line-break, offset: 0, content: '', id: KX_1_dup16, _xml_error: duplicate-id, _xml_original_id: KX_1}
-  - {type: substitution, offset: 10, original: 扵, replacement: 于, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3889}}
   - {type: 'tls:seg', offset: 17, content: '', id: KR3fa017_tls_001-p20.s2.1}
   - {type: line-break, offset: 17, content: '', id: KX_2_dup19, _xml_error: duplicate-id, _xml_original_id: KX_2}
   - {type: 'tls:seg-start', offset: 32, content: '', id: KR3fa017_tls_001-p20.s2.2, seg_type: comm, member_ids: [KR3fa017_tls_001-p20.s2.2, KR3fa017_tls_001-p20.s3.1]}
@@ -16,8 +15,6 @@ markers:
   - {type: line-break, offset: 41, content: '', id: KR3fa017_tls_039-bkklb2}
   - {type: 'tls:seg-end', offset: 43, content: '', id: KR3fa017_tls_001-p20.s3.1_end, seg_type: comm}
   - {type: 'tls:seg', offset: 43, content: '', id: KR3fa017_tls_001-p20.s3.2}
-  - {type: substitution, offset: 43, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
-  - {type: substitution, offset: 44, original: 扵, replacement: 于, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3889}}
   - {type: 'tls:seg', offset: 59, content: '', id: KR3fa017_tls_001-p20.s4}
   - {type: line-break, offset: 59, content: '', id: KX_4_dup19, _xml_error: duplicate-id, _xml_original_id: KX_4}
   - {type: 'tls:seg', offset: 77, content: '', id: KR3fa017_tls_001-p20.s5}
@@ -53,4 +50,4 @@ markers:
   - {type: 'tls:seg', offset: 282, content: '', id: KR3fa017_tls_001-p20.s21}
   - {type: line-break, offset: 282, content: '', id: KX_21_dup19, _xml_error: duplicate-id, _xml_original_id: KX_21}
   back: []
-hash: sha256:2877a945fe7319bdb99ab86bd48b834a78c4b1583ad38d17889c80baa820751b
+hash: sha256:8a761f22d6517237797c44bc6a2a71d95c4d3c858f4d42e5a858bed5a7d1f6ac

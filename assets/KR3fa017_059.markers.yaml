@@ -9,7 +9,6 @@ markers:
   - {type: line-break, offset: 17, content: '', id: KX_2_dup27, _xml_error: duplicate-id, _xml_original_id: KX_2}
   - {type: 'tls:seg', offset: 24, content: '', id: KR3fa017_tls_001-p31.s3}
   - {type: line-break, offset: 24, content: '', id: KX_3_dup27, _xml_error: duplicate-id, _xml_original_id: KX_3}
-  - {type: substitution, offset: 32, original: 内, replacement: 內, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4477}}
   - {type: punctuation, offset: 43, content: ○, id: KR3fa017_tls_059-bkkpn1}
   - {type: 'tls:seg', offset: 43, content: '', id: KR3fa017_tls_001-p31.s4}
   - {type: line-break, offset: 43, content: '', id: KX_4_dup27, _xml_error: duplicate-id, _xml_original_id: KX_4}
@@ -17,7 +16,6 @@ markers:
   - {type: 'tls:seg', offset: 62, content: '', id: KR3fa017_tls_001-p31.s5}
   - {type: line-break, offset: 62, content: '', id: KX_5_dup26, _xml_error: duplicate-id, _xml_original_id: KX_5}
   - {type: punctuation, offset: 65, content: ○, id: KR3fa017_tls_059-bkkpn3}
-  - {type: substitution, offset: 71, original: 累, replacement: 纍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4527}}
   - {type: 'tls:seg', offset: 80, content: '', id: KR3fa017_tls_001-p31.s6}
   - {type: line-break, offset: 80, content: '', id: KX_6_dup26, _xml_error: duplicate-id, _xml_original_id: KX_6}
   - {type: punctuation, offset: 87, content: ○, id: KR3fa017_tls_059-bkkpn4}
@@ -50,4 +48,4 @@ markers:
   - {type: 'tls:seg', offset: 267, content: '', id: KR3fa017_tls_001-p31.s21}
   - {type: line-break, offset: 267, content: '', id: KX_21_dup25, _xml_error: duplicate-id, _xml_original_id: KX_21}
   back: []
-hash: sha256:a8828296743d45efffab502204518fa7c576737b85a5cf45b330e49126a1c715
+hash: sha256:b81278d533489e25085749daa467104418e34e1d506bbd84d27b090ae1bec010
