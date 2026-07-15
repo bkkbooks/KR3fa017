@@ -24,5 +24,6 @@ markers:
   - {type: punctuation, offset: 105, content: 〇, id: KR3fa017_tls_057-bkkpn1}
   - {type: 'tls:seg', offset: 106, content: '', id: KR3fa017_tls_001-p30.s20}
   - {type: line-break, offset: 106, content: '', id: KX_20_dup26, _xml_error: duplicate-id, _xml_original_id: KX_20}
+  - {type: substitution, offset: 120, original: 累, replacement: 纍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20807}}
   back: []
-hash: sha256:1e2a88e9fc0fd1b2df9c77a2e32940629a640abaa8933a38dd71764335ebba62
+hash: sha256:0d6cad7131990ef996832605164afb046fada88b69041104cf56ab1032f7f4c9
